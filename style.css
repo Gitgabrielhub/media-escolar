@@ -1,0 +1,26 @@
+body{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.style{
+    background-color: #1D2DB7;
+    margin: auto;
+    max-width: 400px;
+    border-radius:5px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.subStyle{
+    font-size: 20px;
+    max-width: 400px;
+    
+}
+button{
+    width: 60%;
+    border-radius:10px;
+    border: none;
+}
